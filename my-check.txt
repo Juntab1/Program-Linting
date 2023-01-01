@@ -1,0 +1,7 @@
+Repeat(N)Check
+
+description: Repeat(N)Check should return an error (with custom message) if the 
+given line uses the Repeat(N) method in the actual java code, not 
+in a comment (a comment starts with //).
+
+Error Code: 4
