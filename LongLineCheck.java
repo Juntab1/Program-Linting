@@ -1,7 +1,3 @@
-// Name: Jun Bruttomesso
-// Date: 12/1/2022
-// Class: CSE 122
-// TA: Colton Harris
 // Program: Program Linting
 import java.util.*;
 

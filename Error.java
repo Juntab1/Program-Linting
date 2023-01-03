@@ -1,7 +1,3 @@
-// Name: Jun Bruttomesso
-// Date: 12/1/2022
-// Class: CSE 122
-// TA: Colton Harris
 // Program: Program Linting
 
 // This class is used to output to the user their line of 
